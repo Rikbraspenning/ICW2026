@@ -4,4 +4,3 @@ Klassikale html pagina met alle leerlingen
 
 ## Deelnemers:
 * JMO
-* Thiebe
